@@ -49,6 +49,7 @@ GUI_App_for_Data_Entry/
 
 
 
+
 ## 📸 Screenshots
 
 ## Students Data Entry UI
@@ -62,6 +63,7 @@ GUI_App_for_Data_Entry/
 ## ✅ Data Saved Successfully
 
 ![image_alt](https://github.com/khushbu0130/GUI_App_for_Data-Entry/blob/9df8486ffc503c8edc802476381c8b3be9199678/Screenshots/Data%20Saved%20Successfully.png)
+
 (Your app shows a confirmation popup when data is saved.)
 
 
