@@ -58,9 +58,10 @@ GUI_App_for_Data_Entry/
 ## Students Details
 
 ![image_alt](https://github.com/khushbu0130/GUI_App_for_Data-Entry/blob/85f56ac6d445949f24d48bf016b0cc85cc1d4042/Screenshots/Details%20of%20Students%20Data.png)
-✅ Data Saved Successfully
 
+## ✅ Data Saved Successfully
 
+![image_alt](https://github.com/khushbu0130/GUI_App_for_Data-Entry/blob/9df8486ffc503c8edc802476381c8b3be9199678/Screenshots/Data%20Saved%20Successfully.png)
 (Your app shows a confirmation popup when data is saved.)
 
 
