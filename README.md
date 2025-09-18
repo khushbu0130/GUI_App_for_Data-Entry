@@ -51,9 +51,13 @@ GUI_App_for_Data_Entry/
 
 ## 📸 Screenshots
 
-## Student Data Entry UI
+## Students Data Entry UI
 
 ![image_alt](https://github.com/khushbu0130/GUI_App_for_Data-Entry/blob/24a4654da97e9dfd96af3531058507b900918ec8/Screenshots/Students%20Data%20Entry%20UI.png)
+
+## Students Details
+
+![image_alt](https://github.com/khushbu0130/GUI_App_for_Data-Entry/blob/85f56ac6d445949f24d48bf016b0cc85cc1d4042/Screenshots/Details%20of%20Students%20Data.png)
 ✅ Data Saved Successfully
 
 
