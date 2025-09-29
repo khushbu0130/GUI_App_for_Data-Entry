@@ -137,9 +137,10 @@ Dark mode UI 🎨
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
-📧 Contact
 
-Developed by [Your Name]
-📩 Email: your.email@example.com
 
-🌐 GitHub: your-username
+Developed by Khushbu Kumari
+📩 Email: khushbukri8978@gmail.com
+
+
+🌐 GitHub: khushbu0130
